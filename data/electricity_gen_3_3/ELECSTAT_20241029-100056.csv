@@ -1,0 +1,387 @@
+"Electricity statistics (MW/GWh) by Country/area, Technology, Data Type, Grid connection and Year"
+
+"Country/area","Technology","Data Type","Grid connection","Year",Electricity statistics (MW/GWh)
+"Kenya","Total Renewable","Electricity Generation (GWh)","On-grid","2000",2370.43
+"Kenya","Total Renewable","Electricity Generation (GWh)","On-grid","2001",2395.57
+"Kenya","Total Renewable","Electricity Generation (GWh)","On-grid","2002",3285.68
+"Kenya","Total Renewable","Electricity Generation (GWh)","On-grid","2003",3861.43
+"Kenya","Total Renewable","Electricity Generation (GWh)","On-grid","2004",4069.15
+"Kenya","Total Renewable","Electricity Generation (GWh)","On-grid","2005",4071.93
+"Kenya","Total Renewable","Electricity Generation (GWh)","On-grid","2006",4304.70
+"Kenya","Total Renewable","Electricity Generation (GWh)","On-grid","2007",4581.48
+"Kenya","Total Renewable","Electricity Generation (GWh)","On-grid","2008",4443.89
+"Kenya","Total Renewable","Electricity Generation (GWh)","On-grid","2009",4021.90
+"Kenya","Total Renewable","Electricity Generation (GWh)","On-grid","2010",4490.33
+"Kenya","Total Renewable","Electricity Generation (GWh)","On-grid","2011",5235.31
+"Kenya","Total Renewable","Electricity Generation (GWh)","On-grid","2012",5788.34
+"Kenya","Total Renewable","Electricity Generation (GWh)","On-grid","2013",6338.21
+"Kenya","Total Renewable","Electricity Generation (GWh)","On-grid","2014",7075.60
+"Kenya","Total Renewable","Electricity Generation (GWh)","On-grid","2015",8294.56
+"Kenya","Total Renewable","Electricity Generation (GWh)","On-grid","2016",8525.00
+"Kenya","Total Renewable","Electricity Generation (GWh)","On-grid","2017",8382.03
+"Kenya","Total Renewable","Electricity Generation (GWh)","On-grid","2018",8897.65
+"Kenya","Total Renewable","Electricity Generation (GWh)","On-grid","2019",9335.62
+"Kenya","Total Renewable","Electricity Generation (GWh)","On-grid","2020",9596.29
+"Kenya","Total Renewable","Electricity Generation (GWh)","On-grid","2021",9448.39
+"Kenya","Total Renewable","Electricity Generation (GWh)","On-grid","2022",9030.46
+"Kenya","Total Renewable","Electricity Generation (GWh)","On-grid","2023",-
+"Kenya","Total Renewable","Electricity Generation (GWh)","Off-grid","2000",31.15
+"Kenya","Total Renewable","Electricity Generation (GWh)","Off-grid","2001",31.16
+"Kenya","Total Renewable","Electricity Generation (GWh)","Off-grid","2002",31.16
+"Kenya","Total Renewable","Electricity Generation (GWh)","Off-grid","2003",31.16
+"Kenya","Total Renewable","Electricity Generation (GWh)","Off-grid","2004",31.22
+"Kenya","Total Renewable","Electricity Generation (GWh)","Off-grid","2005",31.43
+"Kenya","Total Renewable","Electricity Generation (GWh)","Off-grid","2006",31.43
+"Kenya","Total Renewable","Electricity Generation (GWh)","Off-grid","2007",31.47
+"Kenya","Total Renewable","Electricity Generation (GWh)","Off-grid","2008",31.73
+"Kenya","Total Renewable","Electricity Generation (GWh)","Off-grid","2009",32.08
+"Kenya","Total Renewable","Electricity Generation (GWh)","Off-grid","2010",38.65
+"Kenya","Total Renewable","Electricity Generation (GWh)","Off-grid","2011",39.72
+"Kenya","Total Renewable","Electricity Generation (GWh)","Off-grid","2012",43.08
+"Kenya","Total Renewable","Electricity Generation (GWh)","Off-grid","2013",49.02
+"Kenya","Total Renewable","Electricity Generation (GWh)","Off-grid","2014",61.65
+"Kenya","Total Renewable","Electricity Generation (GWh)","Off-grid","2015",83.41
+"Kenya","Total Renewable","Electricity Generation (GWh)","Off-grid","2016",100.83
+"Kenya","Total Renewable","Electricity Generation (GWh)","Off-grid","2017",134.39
+"Kenya","Total Renewable","Electricity Generation (GWh)","Off-grid","2018",147.12
+"Kenya","Total Renewable","Electricity Generation (GWh)","Off-grid","2019",171.01
+"Kenya","Total Renewable","Electricity Generation (GWh)","Off-grid","2020",199.61
+"Kenya","Total Renewable","Electricity Generation (GWh)","Off-grid","2021",233.98
+"Kenya","Total Renewable","Electricity Generation (GWh)","Off-grid","2022",252.75
+"Kenya","Total Renewable","Electricity Generation (GWh)","Off-grid","2023",-
+"Kenya","Total Non-Renewable","Electricity Generation (GWh)","On-grid","2000",1764.00
+"Kenya","Total Non-Renewable","Electricity Generation (GWh)","On-grid","2001",1788.00
+"Kenya","Total Non-Renewable","Electricity Generation (GWh)","On-grid","2002",1254.50
+"Kenya","Total Non-Renewable","Electricity Generation (GWh)","On-grid","2003",909.50
+"Kenya","Total Non-Renewable","Electricity Generation (GWh)","On-grid","2004",1068.00
+"Kenya","Total Non-Renewable","Electricity Generation (GWh)","On-grid","2005",1473.00
+"Kenya","Total Non-Renewable","Electricity Generation (GWh)","On-grid","2006",1737.00
+"Kenya","Total Non-Renewable","Electricity Generation (GWh)","On-grid","2007",1843.00
+"Kenya","Total Non-Renewable","Electricity Generation (GWh)","On-grid","2008",2107.00
+"Kenya","Total Non-Renewable","Electricity Generation (GWh)","On-grid","2009",2703.00
+"Kenya","Total Non-Renewable","Electricity Generation (GWh)","On-grid","2010",2624.95
+"Kenya","Total Non-Renewable","Electricity Generation (GWh)","On-grid","2011",2397.72
+"Kenya","Total Non-Renewable","Electricity Generation (GWh)","On-grid","2012",2300.22
+"Kenya","Total Non-Renewable","Electricity Generation (GWh)","On-grid","2013",2379.76
+"Kenya","Total Non-Renewable","Electricity Generation (GWh)","On-grid","2014",2282.16
+"Kenya","Total Non-Renewable","Electricity Generation (GWh)","On-grid","2015",1600.16
+"Kenya","Total Non-Renewable","Electricity Generation (GWh)","On-grid","2016",1770.33
+"Kenya","Total Non-Renewable","Electricity Generation (GWh)","On-grid","2017",2174.53
+"Kenya","Total Non-Renewable","Electricity Generation (GWh)","On-grid","2018",1711.96
+"Kenya","Total Non-Renewable","Electricity Generation (GWh)","On-grid","2019",1040.12
+"Kenya","Total Non-Renewable","Electricity Generation (GWh)","On-grid","2020",852.70
+"Kenya","Total Non-Renewable","Electricity Generation (GWh)","On-grid","2021",1233.53
+"Kenya","Total Non-Renewable","Electricity Generation (GWh)","On-grid","2022",1457.65
+"Kenya","Total Non-Renewable","Electricity Generation (GWh)","On-grid","2023",-
+"Kenya","Total Non-Renewable","Electricity Generation (GWh)","Off-grid","2000",20.00
+"Kenya","Total Non-Renewable","Electricity Generation (GWh)","Off-grid","2001",20.50
+"Kenya","Total Non-Renewable","Electricity Generation (GWh)","Off-grid","2002",21.50
+"Kenya","Total Non-Renewable","Electricity Generation (GWh)","Off-grid","2003",22.50
+"Kenya","Total Non-Renewable","Electricity Generation (GWh)","Off-grid","2004",23.50
+"Kenya","Total Non-Renewable","Electricity Generation (GWh)","Off-grid","2005",25.50
+"Kenya","Total Non-Renewable","Electricity Generation (GWh)","Off-grid","2006",28.00
+"Kenya","Total Non-Renewable","Electricity Generation (GWh)","Off-grid","2007",30.50
+"Kenya","Total Non-Renewable","Electricity Generation (GWh)","Off-grid","2008",32.50
+"Kenya","Total Non-Renewable","Electricity Generation (GWh)","Off-grid","2009",35.97
+"Kenya","Total Non-Renewable","Electricity Generation (GWh)","Off-grid","2010",41.82
+"Kenya","Total Non-Renewable","Electricity Generation (GWh)","Off-grid","2011",46.70
+"Kenya","Total Non-Renewable","Electricity Generation (GWh)","Off-grid","2012",50.86
+"Kenya","Total Non-Renewable","Electricity Generation (GWh)","Off-grid","2013",55.39
+"Kenya","Total Non-Renewable","Electricity Generation (GWh)","Off-grid","2014",62.88
+"Kenya","Total Non-Renewable","Electricity Generation (GWh)","Off-grid","2015",69.93
+"Kenya","Total Non-Renewable","Electricity Generation (GWh)","Off-grid","2016",56.34
+"Kenya","Total Non-Renewable","Electricity Generation (GWh)","Off-grid","2017",43.85
+"Kenya","Total Non-Renewable","Electricity Generation (GWh)","Off-grid","2018",52.25
+"Kenya","Total Non-Renewable","Electricity Generation (GWh)","Off-grid","2019",58.85
+"Kenya","Total Non-Renewable","Electricity Generation (GWh)","Off-grid","2020",62.45
+"Kenya","Total Non-Renewable","Electricity Generation (GWh)","Off-grid","2021",67.90
+"Kenya","Total Non-Renewable","Electricity Generation (GWh)","Off-grid","2022",72.50
+"Kenya","Total Non-Renewable","Electricity Generation (GWh)","Off-grid","2023",-
+"Madagascar","Total Renewable","Electricity Generation (GWh)","On-grid","2000",539.65
+"Madagascar","Total Renewable","Electricity Generation (GWh)","On-grid","2001",563.96
+"Madagascar","Total Renewable","Electricity Generation (GWh)","On-grid","2002",535.40
+"Madagascar","Total Renewable","Electricity Generation (GWh)","On-grid","2003",611.67
+"Madagascar","Total Renewable","Electricity Generation (GWh)","On-grid","2004",637.00
+"Madagascar","Total Renewable","Electricity Generation (GWh)","On-grid","2005",647.90
+"Madagascar","Total Renewable","Electricity Generation (GWh)","On-grid","2006",637.93
+"Madagascar","Total Renewable","Electricity Generation (GWh)","On-grid","2007",719.09
+"Madagascar","Total Renewable","Electricity Generation (GWh)","On-grid","2008",699.66
+"Madagascar","Total Renewable","Electricity Generation (GWh)","On-grid","2009",740.40
+"Madagascar","Total Renewable","Electricity Generation (GWh)","On-grid","2010",710.97
+"Madagascar","Total Renewable","Electricity Generation (GWh)","On-grid","2011",690.35
+"Madagascar","Total Renewable","Electricity Generation (GWh)","On-grid","2012",755.01
+"Madagascar","Total Renewable","Electricity Generation (GWh)","On-grid","2013",726.52
+"Madagascar","Total Renewable","Electricity Generation (GWh)","On-grid","2014",807.53
+"Madagascar","Total Renewable","Electricity Generation (GWh)","On-grid","2015",934.82
+"Madagascar","Total Renewable","Electricity Generation (GWh)","On-grid","2016",886.55
+"Madagascar","Total Renewable","Electricity Generation (GWh)","On-grid","2017",783.76
+"Madagascar","Total Renewable","Electricity Generation (GWh)","On-grid","2018",1001.34
+"Madagascar","Total Renewable","Electricity Generation (GWh)","On-grid","2019",919.29
+"Madagascar","Total Renewable","Electricity Generation (GWh)","On-grid","2020",850.91
+"Madagascar","Total Renewable","Electricity Generation (GWh)","On-grid","2021",800.35
+"Madagascar","Total Renewable","Electricity Generation (GWh)","On-grid","2022",897.79
+"Madagascar","Total Renewable","Electricity Generation (GWh)","On-grid","2023",-
+"Madagascar","Total Renewable","Electricity Generation (GWh)","Off-grid","2000",2.22
+"Madagascar","Total Renewable","Electricity Generation (GWh)","Off-grid","2001",2.22
+"Madagascar","Total Renewable","Electricity Generation (GWh)","Off-grid","2002",2.22
+"Madagascar","Total Renewable","Electricity Generation (GWh)","Off-grid","2003",2.53
+"Madagascar","Total Renewable","Electricity Generation (GWh)","Off-grid","2004",2.01
+"Madagascar","Total Renewable","Electricity Generation (GWh)","Off-grid","2005",2.01
+"Madagascar","Total Renewable","Electricity Generation (GWh)","Off-grid","2006",2.01
+"Madagascar","Total Renewable","Electricity Generation (GWh)","Off-grid","2007",2.22
+"Madagascar","Total Renewable","Electricity Generation (GWh)","Off-grid","2008",2.22
+"Madagascar","Total Renewable","Electricity Generation (GWh)","Off-grid","2009",4.06
+"Madagascar","Total Renewable","Electricity Generation (GWh)","Off-grid","2010",20.43
+"Madagascar","Total Renewable","Electricity Generation (GWh)","Off-grid","2011",21.15
+"Madagascar","Total Renewable","Electricity Generation (GWh)","Off-grid","2012",22.03
+"Madagascar","Total Renewable","Electricity Generation (GWh)","Off-grid","2013",22.83
+"Madagascar","Total Renewable","Electricity Generation (GWh)","Off-grid","2014",27.19
+"Madagascar","Total Renewable","Electricity Generation (GWh)","Off-grid","2015",32.39
+"Madagascar","Total Renewable","Electricity Generation (GWh)","Off-grid","2016",34.14
+"Madagascar","Total Renewable","Electricity Generation (GWh)","Off-grid","2017",35.74
+"Madagascar","Total Renewable","Electricity Generation (GWh)","Off-grid","2018",36.47
+"Madagascar","Total Renewable","Electricity Generation (GWh)","Off-grid","2019",39.96
+"Madagascar","Total Renewable","Electricity Generation (GWh)","Off-grid","2020",41.02
+"Madagascar","Total Renewable","Electricity Generation (GWh)","Off-grid","2021",40.80
+"Madagascar","Total Renewable","Electricity Generation (GWh)","Off-grid","2022",42.10
+"Madagascar","Total Renewable","Electricity Generation (GWh)","Off-grid","2023",-
+"Madagascar","Total Non-Renewable","Electricity Generation (GWh)","On-grid","2000",240.20
+"Madagascar","Total Non-Renewable","Electricity Generation (GWh)","On-grid","2001",269.98
+"Madagascar","Total Non-Renewable","Electricity Generation (GWh)","On-grid","2002",244.60
+"Madagascar","Total Non-Renewable","Electricity Generation (GWh)","On-grid","2003",286.63
+"Madagascar","Total Non-Renewable","Electricity Generation (GWh)","On-grid","2004",346.42
+"Madagascar","Total Non-Renewable","Electricity Generation (GWh)","On-grid","2005",340.50
+"Madagascar","Total Non-Renewable","Electricity Generation (GWh)","On-grid","2006",365.64
+"Madagascar","Total Non-Renewable","Electricity Generation (GWh)","On-grid","2007",332.67
+"Madagascar","Total Non-Renewable","Electricity Generation (GWh)","On-grid","2008",404.09
+"Madagascar","Total Non-Renewable","Electricity Generation (GWh)","On-grid","2009",362.66
+"Madagascar","Total Non-Renewable","Electricity Generation (GWh)","On-grid","2010",478.84
+"Madagascar","Total Non-Renewable","Electricity Generation (GWh)","On-grid","2011",577.30
+"Madagascar","Total Non-Renewable","Electricity Generation (GWh)","On-grid","2012",595.00
+"Madagascar","Total Non-Renewable","Electricity Generation (GWh)","On-grid","2013",614.40
+"Madagascar","Total Non-Renewable","Electricity Generation (GWh)","On-grid","2014",603.94
+"Madagascar","Total Non-Renewable","Electricity Generation (GWh)","On-grid","2015",607.42
+"Madagascar","Total Non-Renewable","Electricity Generation (GWh)","On-grid","2016",764.91
+"Madagascar","Total Non-Renewable","Electricity Generation (GWh)","On-grid","2017",917.86
+"Madagascar","Total Non-Renewable","Electricity Generation (GWh)","On-grid","2018",828.46
+"Madagascar","Total Non-Renewable","Electricity Generation (GWh)","On-grid","2019",973.52
+"Madagascar","Total Non-Renewable","Electricity Generation (GWh)","On-grid","2020",1018.48
+"Madagascar","Total Non-Renewable","Electricity Generation (GWh)","On-grid","2021",1143.34
+"Madagascar","Total Non-Renewable","Electricity Generation (GWh)","On-grid","2022",1111.32
+"Madagascar","Total Non-Renewable","Electricity Generation (GWh)","On-grid","2023",-
+"Madagascar","Total Non-Renewable","Electricity Generation (GWh)","Off-grid","2000",-
+"Madagascar","Total Non-Renewable","Electricity Generation (GWh)","Off-grid","2001",-
+"Madagascar","Total Non-Renewable","Electricity Generation (GWh)","Off-grid","2002",-
+"Madagascar","Total Non-Renewable","Electricity Generation (GWh)","Off-grid","2003",-
+"Madagascar","Total Non-Renewable","Electricity Generation (GWh)","Off-grid","2004",-
+"Madagascar","Total Non-Renewable","Electricity Generation (GWh)","Off-grid","2005",-
+"Madagascar","Total Non-Renewable","Electricity Generation (GWh)","Off-grid","2006",-
+"Madagascar","Total Non-Renewable","Electricity Generation (GWh)","Off-grid","2007",-
+"Madagascar","Total Non-Renewable","Electricity Generation (GWh)","Off-grid","2008",-
+"Madagascar","Total Non-Renewable","Electricity Generation (GWh)","Off-grid","2009",-
+"Madagascar","Total Non-Renewable","Electricity Generation (GWh)","Off-grid","2010",-
+"Madagascar","Total Non-Renewable","Electricity Generation (GWh)","Off-grid","2011",-
+"Madagascar","Total Non-Renewable","Electricity Generation (GWh)","Off-grid","2012",-
+"Madagascar","Total Non-Renewable","Electricity Generation (GWh)","Off-grid","2013",-
+"Madagascar","Total Non-Renewable","Electricity Generation (GWh)","Off-grid","2014",-
+"Madagascar","Total Non-Renewable","Electricity Generation (GWh)","Off-grid","2015",-
+"Madagascar","Total Non-Renewable","Electricity Generation (GWh)","Off-grid","2016",-
+"Madagascar","Total Non-Renewable","Electricity Generation (GWh)","Off-grid","2017",-
+"Madagascar","Total Non-Renewable","Electricity Generation (GWh)","Off-grid","2018",-
+"Madagascar","Total Non-Renewable","Electricity Generation (GWh)","Off-grid","2019",-
+"Madagascar","Total Non-Renewable","Electricity Generation (GWh)","Off-grid","2020",-
+"Madagascar","Total Non-Renewable","Electricity Generation (GWh)","Off-grid","2021",-
+"Madagascar","Total Non-Renewable","Electricity Generation (GWh)","Off-grid","2022",-
+"Madagascar","Total Non-Renewable","Electricity Generation (GWh)","Off-grid","2023",-
+"Uganda","Total Renewable","Electricity Generation (GWh)","On-grid","2000",1606.02
+"Uganda","Total Renewable","Electricity Generation (GWh)","On-grid","2001",1607.35
+"Uganda","Total Renewable","Electricity Generation (GWh)","On-grid","2002",1738.70
+"Uganda","Total Renewable","Electricity Generation (GWh)","On-grid","2003",1799.80
+"Uganda","Total Renewable","Electricity Generation (GWh)","On-grid","2004",1943.00
+"Uganda","Total Renewable","Electricity Generation (GWh)","On-grid","2005",1905.03
+"Uganda","Total Renewable","Electricity Generation (GWh)","On-grid","2006",1210.98
+"Uganda","Total Renewable","Electricity Generation (GWh)","On-grid","2007",1311.28
+"Uganda","Total Renewable","Electricity Generation (GWh)","On-grid","2008",1430.24
+"Uganda","Total Renewable","Electricity Generation (GWh)","On-grid","2009",1306.76
+"Uganda","Total Renewable","Electricity Generation (GWh)","On-grid","2010",1409.73
+"Uganda","Total Renewable","Electricity Generation (GWh)","On-grid","2011",1640.90
+"Uganda","Total Renewable","Electricity Generation (GWh)","On-grid","2012",2594.49
+"Uganda","Total Renewable","Electricity Generation (GWh)","On-grid","2013",3412.40
+"Uganda","Total Renewable","Electricity Generation (GWh)","On-grid","2014",3460.40
+"Uganda","Total Renewable","Electricity Generation (GWh)","On-grid","2015",3360.05
+"Uganda","Total Renewable","Electricity Generation (GWh)","On-grid","2016",3503.70
+"Uganda","Total Renewable","Electricity Generation (GWh)","On-grid","2017",3646.34
+"Uganda","Total Renewable","Electricity Generation (GWh)","On-grid","2018",3913.34
+"Uganda","Total Renewable","Electricity Generation (GWh)","On-grid","2019",4353.25
+"Uganda","Total Renewable","Electricity Generation (GWh)","On-grid","2020",4371.54
+"Uganda","Total Renewable","Electricity Generation (GWh)","On-grid","2021",4735.98
+"Uganda","Total Renewable","Electricity Generation (GWh)","On-grid","2022",5397.82
+"Uganda","Total Renewable","Electricity Generation (GWh)","On-grid","2023",-
+"Uganda","Total Renewable","Electricity Generation (GWh)","Off-grid","2000",0.29
+"Uganda","Total Renewable","Electricity Generation (GWh)","Off-grid","2001",1.16
+"Uganda","Total Renewable","Electricity Generation (GWh)","Off-grid","2002",1.60
+"Uganda","Total Renewable","Electricity Generation (GWh)","Off-grid","2003",2.47
+"Uganda","Total Renewable","Electricity Generation (GWh)","Off-grid","2004",3.35
+"Uganda","Total Renewable","Electricity Generation (GWh)","Off-grid","2005",4.36
+"Uganda","Total Renewable","Electricity Generation (GWh)","Off-grid","2006",7.85
+"Uganda","Total Renewable","Electricity Generation (GWh)","Off-grid","2007",11.20
+"Uganda","Total Renewable","Electricity Generation (GWh)","Off-grid","2008",18.43
+"Uganda","Total Renewable","Electricity Generation (GWh)","Off-grid","2009",22.04
+"Uganda","Total Renewable","Electricity Generation (GWh)","Off-grid","2010",23.11
+"Uganda","Total Renewable","Electricity Generation (GWh)","Off-grid","2011",25.04
+"Uganda","Total Renewable","Electricity Generation (GWh)","Off-grid","2012",43.70
+"Uganda","Total Renewable","Electricity Generation (GWh)","Off-grid","2013",45.42
+"Uganda","Total Renewable","Electricity Generation (GWh)","Off-grid","2014",47.60
+"Uganda","Total Renewable","Electricity Generation (GWh)","Off-grid","2015",50.51
+"Uganda","Total Renewable","Electricity Generation (GWh)","Off-grid","2016",53.41
+"Uganda","Total Renewable","Electricity Generation (GWh)","Off-grid","2017",57.19
+"Uganda","Total Renewable","Electricity Generation (GWh)","Off-grid","2018",57.19
+"Uganda","Total Renewable","Electricity Generation (GWh)","Off-grid","2019",57.43
+"Uganda","Total Renewable","Electricity Generation (GWh)","Off-grid","2020",57.43
+"Uganda","Total Renewable","Electricity Generation (GWh)","Off-grid","2021",57.43
+"Uganda","Total Renewable","Electricity Generation (GWh)","Off-grid","2022",57.43
+"Uganda","Total Renewable","Electricity Generation (GWh)","Off-grid","2023",-
+"Uganda","Total Non-Renewable","Electricity Generation (GWh)","On-grid","2000",1.20
+"Uganda","Total Non-Renewable","Electricity Generation (GWh)","On-grid","2001",1.20
+"Uganda","Total Non-Renewable","Electricity Generation (GWh)","On-grid","2002",1.20
+"Uganda","Total Non-Renewable","Electricity Generation (GWh)","On-grid","2003",1.20
+"Uganda","Total Non-Renewable","Electricity Generation (GWh)","On-grid","2004",1.20
+"Uganda","Total Non-Renewable","Electricity Generation (GWh)","On-grid","2005",219.00
+"Uganda","Total Non-Renewable","Electricity Generation (GWh)","On-grid","2006",369.50
+"Uganda","Total Non-Renewable","Electricity Generation (GWh)","On-grid","2007",539.00
+"Uganda","Total Non-Renewable","Electricity Generation (GWh)","On-grid","2008",609.81
+"Uganda","Total Non-Renewable","Electricity Generation (GWh)","On-grid","2009",896.61
+"Uganda","Total Non-Renewable","Electricity Generation (GWh)","On-grid","2010",1020.28
+"Uganda","Total Non-Renewable","Electricity Generation (GWh)","On-grid","2011",957.93
+"Uganda","Total Non-Renewable","Electricity Generation (GWh)","On-grid","2012",272.95
+"Uganda","Total Non-Renewable","Electricity Generation (GWh)","On-grid","2013",1.80
+"Uganda","Total Non-Renewable","Electricity Generation (GWh)","On-grid","2014",93.32
+"Uganda","Total Non-Renewable","Electricity Generation (GWh)","On-grid","2015",88.68
+"Uganda","Total Non-Renewable","Electricity Generation (GWh)","On-grid","2016",66.20
+"Uganda","Total Non-Renewable","Electricity Generation (GWh)","On-grid","2017",242.00
+"Uganda","Total Non-Renewable","Electricity Generation (GWh)","On-grid","2018",234.70
+"Uganda","Total Non-Renewable","Electricity Generation (GWh)","On-grid","2019",105.80
+"Uganda","Total Non-Renewable","Electricity Generation (GWh)","On-grid","2020",58.14
+"Uganda","Total Non-Renewable","Electricity Generation (GWh)","On-grid","2021",104.90
+"Uganda","Total Non-Renewable","Electricity Generation (GWh)","On-grid","2022",15.24
+"Uganda","Total Non-Renewable","Electricity Generation (GWh)","On-grid","2023",-
+"Uganda","Total Non-Renewable","Electricity Generation (GWh)","Off-grid","2000",-
+"Uganda","Total Non-Renewable","Electricity Generation (GWh)","Off-grid","2001",-
+"Uganda","Total Non-Renewable","Electricity Generation (GWh)","Off-grid","2002",-
+"Uganda","Total Non-Renewable","Electricity Generation (GWh)","Off-grid","2003",-
+"Uganda","Total Non-Renewable","Electricity Generation (GWh)","Off-grid","2004",-
+"Uganda","Total Non-Renewable","Electricity Generation (GWh)","Off-grid","2005",-
+"Uganda","Total Non-Renewable","Electricity Generation (GWh)","Off-grid","2006",-
+"Uganda","Total Non-Renewable","Electricity Generation (GWh)","Off-grid","2007",-
+"Uganda","Total Non-Renewable","Electricity Generation (GWh)","Off-grid","2008",-
+"Uganda","Total Non-Renewable","Electricity Generation (GWh)","Off-grid","2009",-
+"Uganda","Total Non-Renewable","Electricity Generation (GWh)","Off-grid","2010",-
+"Uganda","Total Non-Renewable","Electricity Generation (GWh)","Off-grid","2011",-
+"Uganda","Total Non-Renewable","Electricity Generation (GWh)","Off-grid","2012",-
+"Uganda","Total Non-Renewable","Electricity Generation (GWh)","Off-grid","2013",-
+"Uganda","Total Non-Renewable","Electricity Generation (GWh)","Off-grid","2014",-
+"Uganda","Total Non-Renewable","Electricity Generation (GWh)","Off-grid","2015",-
+"Uganda","Total Non-Renewable","Electricity Generation (GWh)","Off-grid","2016",-
+"Uganda","Total Non-Renewable","Electricity Generation (GWh)","Off-grid","2017",0.00
+"Uganda","Total Non-Renewable","Electricity Generation (GWh)","Off-grid","2018",0.03
+"Uganda","Total Non-Renewable","Electricity Generation (GWh)","Off-grid","2019",0.00
+"Uganda","Total Non-Renewable","Electricity Generation (GWh)","Off-grid","2020",0.00
+"Uganda","Total Non-Renewable","Electricity Generation (GWh)","Off-grid","2021",0.05
+"Uganda","Total Non-Renewable","Electricity Generation (GWh)","Off-grid","2022",0.05
+"Uganda","Total Non-Renewable","Electricity Generation (GWh)","Off-grid","2023",-
+"United Republic of Tanzania (the)","Total Renewable","Electricity Generation (GWh)","On-grid","2000",1848.07
+"United Republic of Tanzania (the)","Total Renewable","Electricity Generation (GWh)","On-grid","2001",1899.20
+"United Republic of Tanzania (the)","Total Renewable","Electricity Generation (GWh)","On-grid","2002",1884.21
+"United Republic of Tanzania (the)","Total Renewable","Electricity Generation (GWh)","On-grid","2003",1787.34
+"United Republic of Tanzania (the)","Total Renewable","Electricity Generation (GWh)","On-grid","2004",2056.27
+"United Republic of Tanzania (the)","Total Renewable","Electricity Generation (GWh)","On-grid","2005",1829.68
+"United Republic of Tanzania (the)","Total Renewable","Electricity Generation (GWh)","On-grid","2006",1491.42
+"United Republic of Tanzania (the)","Total Renewable","Electricity Generation (GWh)","On-grid","2007",2566.93
+"United Republic of Tanzania (the)","Total Renewable","Electricity Generation (GWh)","On-grid","2008",2708.82
+"United Republic of Tanzania (the)","Total Renewable","Electricity Generation (GWh)","On-grid","2009",2705.91
+"United Republic of Tanzania (the)","Total Renewable","Electricity Generation (GWh)","On-grid","2010",2773.35
+"United Republic of Tanzania (the)","Total Renewable","Electricity Generation (GWh)","On-grid","2011",2065.19
+"United Republic of Tanzania (the)","Total Renewable","Electricity Generation (GWh)","On-grid","2012",1832.75
+"United Republic of Tanzania (the)","Total Renewable","Electricity Generation (GWh)","On-grid","2013",1789.19
+"United Republic of Tanzania (the)","Total Renewable","Electricity Generation (GWh)","On-grid","2014",2658.75
+"United Republic of Tanzania (the)","Total Renewable","Electricity Generation (GWh)","On-grid","2015",2182.22
+"United Republic of Tanzania (the)","Total Renewable","Electricity Generation (GWh)","On-grid","2016",2441.50
+"United Republic of Tanzania (the)","Total Renewable","Electricity Generation (GWh)","On-grid","2017",2429.94
+"United Republic of Tanzania (the)","Total Renewable","Electricity Generation (GWh)","On-grid","2018",2316.70
+"United Republic of Tanzania (the)","Total Renewable","Electricity Generation (GWh)","On-grid","2019",2568.26
+"United Republic of Tanzania (the)","Total Renewable","Electricity Generation (GWh)","On-grid","2020",3230.19
+"United Republic of Tanzania (the)","Total Renewable","Electricity Generation (GWh)","On-grid","2021",3230.69
+"United Republic of Tanzania (the)","Total Renewable","Electricity Generation (GWh)","On-grid","2022",3231.09
+"United Republic of Tanzania (the)","Total Renewable","Electricity Generation (GWh)","On-grid","2023",-
+"United Republic of Tanzania (the)","Total Renewable","Electricity Generation (GWh)","Off-grid","2000",31.03
+"United Republic of Tanzania (the)","Total Renewable","Electricity Generation (GWh)","Off-grid","2001",35.58
+"United Republic of Tanzania (the)","Total Renewable","Electricity Generation (GWh)","Off-grid","2002",35.53
+"United Republic of Tanzania (the)","Total Renewable","Electricity Generation (GWh)","Off-grid","2003",34.91
+"United Republic of Tanzania (the)","Total Renewable","Electricity Generation (GWh)","Off-grid","2004",30.61
+"United Republic of Tanzania (the)","Total Renewable","Electricity Generation (GWh)","Off-grid","2005",29.53
+"United Republic of Tanzania (the)","Total Renewable","Electricity Generation (GWh)","Off-grid","2006",26.73
+"United Republic of Tanzania (the)","Total Renewable","Electricity Generation (GWh)","Off-grid","2007",33.03
+"United Republic of Tanzania (the)","Total Renewable","Electricity Generation (GWh)","Off-grid","2008",33.21
+"United Republic of Tanzania (the)","Total Renewable","Electricity Generation (GWh)","Off-grid","2009",31.63
+"United Republic of Tanzania (the)","Total Renewable","Electricity Generation (GWh)","Off-grid","2010",33.96
+"United Republic of Tanzania (the)","Total Renewable","Electricity Generation (GWh)","Off-grid","2011",67.01
+"United Republic of Tanzania (the)","Total Renewable","Electricity Generation (GWh)","Off-grid","2012",82.49
+"United Republic of Tanzania (the)","Total Renewable","Electricity Generation (GWh)","Off-grid","2013",86.87
+"United Republic of Tanzania (the)","Total Renewable","Electricity Generation (GWh)","Off-grid","2014",123.25
+"United Republic of Tanzania (the)","Total Renewable","Electricity Generation (GWh)","Off-grid","2015",140.37
+"United Republic of Tanzania (the)","Total Renewable","Electricity Generation (GWh)","Off-grid","2016",160.96
+"United Republic of Tanzania (the)","Total Renewable","Electricity Generation (GWh)","Off-grid","2017",167.18
+"United Republic of Tanzania (the)","Total Renewable","Electricity Generation (GWh)","Off-grid","2018",175.15
+"United Republic of Tanzania (the)","Total Renewable","Electricity Generation (GWh)","Off-grid","2019",176.06
+"United Republic of Tanzania (the)","Total Renewable","Electricity Generation (GWh)","Off-grid","2020",184.64
+"United Republic of Tanzania (the)","Total Renewable","Electricity Generation (GWh)","Off-grid","2021",190.80
+"United Republic of Tanzania (the)","Total Renewable","Electricity Generation (GWh)","Off-grid","2022",193.37
+"United Republic of Tanzania (the)","Total Renewable","Electricity Generation (GWh)","Off-grid","2023",-
+"United Republic of Tanzania (the)","Total Non-Renewable","Electricity Generation (GWh)","On-grid","2000",14.85
+"United Republic of Tanzania (the)","Total Non-Renewable","Electricity Generation (GWh)","On-grid","2001",14.64
+"United Republic of Tanzania (the)","Total Non-Renewable","Electricity Generation (GWh)","On-grid","2002",14.88
+"United Republic of Tanzania (the)","Total Non-Renewable","Electricity Generation (GWh)","On-grid","2003",15.03
+"United Republic of Tanzania (the)","Total Non-Renewable","Electricity Generation (GWh)","On-grid","2004",57.50
+"United Republic of Tanzania (the)","Total Non-Renewable","Electricity Generation (GWh)","On-grid","2005",1430.89
+"United Republic of Tanzania (the)","Total Non-Renewable","Electricity Generation (GWh)","On-grid","2006",1437.60
+"United Republic of Tanzania (the)","Total Non-Renewable","Electricity Generation (GWh)","On-grid","2007",1409.83
+"United Republic of Tanzania (the)","Total Non-Renewable","Electricity Generation (GWh)","On-grid","2008",1677.83
+"United Republic of Tanzania (the)","Total Non-Renewable","Electricity Generation (GWh)","On-grid","2009",2061.14
+"United Republic of Tanzania (the)","Total Non-Renewable","Electricity Generation (GWh)","On-grid","2010",2327.83
+"United Republic of Tanzania (the)","Total Non-Renewable","Electricity Generation (GWh)","On-grid","2011",2435.47
+"United Republic of Tanzania (the)","Total Non-Renewable","Electricity Generation (GWh)","On-grid","2012",2454.67
+"United Republic of Tanzania (the)","Total Non-Renewable","Electricity Generation (GWh)","On-grid","2013",2868.10
+"United Republic of Tanzania (the)","Total Non-Renewable","Electricity Generation (GWh)","On-grid","2014",2815.60
+"United Republic of Tanzania (the)","Total Non-Renewable","Electricity Generation (GWh)","On-grid","2015",4208.80
+"United Republic of Tanzania (the)","Total Non-Renewable","Electricity Generation (GWh)","On-grid","2016",4546.40
+"United Republic of Tanzania (the)","Total Non-Renewable","Electricity Generation (GWh)","On-grid","2017",4569.00
+"United Republic of Tanzania (the)","Total Non-Renewable","Electricity Generation (GWh)","On-grid","2018",4929.60
+"United Republic of Tanzania (the)","Total Non-Renewable","Electricity Generation (GWh)","On-grid","2019",5139.10
+"United Republic of Tanzania (the)","Total Non-Renewable","Electricity Generation (GWh)","On-grid","2020",4536.30
+"United Republic of Tanzania (the)","Total Non-Renewable","Electricity Generation (GWh)","On-grid","2021",5276.00
+"United Republic of Tanzania (the)","Total Non-Renewable","Electricity Generation (GWh)","On-grid","2022",6677.20
+"United Republic of Tanzania (the)","Total Non-Renewable","Electricity Generation (GWh)","On-grid","2023",-
+"United Republic of Tanzania (the)","Total Non-Renewable","Electricity Generation (GWh)","Off-grid","2000",6.21
+"United Republic of Tanzania (the)","Total Non-Renewable","Electricity Generation (GWh)","Off-grid","2001",6.21
+"United Republic of Tanzania (the)","Total Non-Renewable","Electricity Generation (GWh)","Off-grid","2002",6.21
+"United Republic of Tanzania (the)","Total Non-Renewable","Electricity Generation (GWh)","Off-grid","2003",6.21
+"United Republic of Tanzania (the)","Total Non-Renewable","Electricity Generation (GWh)","Off-grid","2004",6.21
+"United Republic of Tanzania (the)","Total Non-Renewable","Electricity Generation (GWh)","Off-grid","2005",6.21
+"United Republic of Tanzania (the)","Total Non-Renewable","Electricity Generation (GWh)","Off-grid","2006",6.21
+"United Republic of Tanzania (the)","Total Non-Renewable","Electricity Generation (GWh)","Off-grid","2007",6.21
+"United Republic of Tanzania (the)","Total Non-Renewable","Electricity Generation (GWh)","Off-grid","2008",6.21
+"United Republic of Tanzania (the)","Total Non-Renewable","Electricity Generation (GWh)","Off-grid","2009",6.21
+"United Republic of Tanzania (the)","Total Non-Renewable","Electricity Generation (GWh)","Off-grid","2010",13.98
+"United Republic of Tanzania (the)","Total Non-Renewable","Electricity Generation (GWh)","Off-grid","2011",17.92
+"United Republic of Tanzania (the)","Total Non-Renewable","Electricity Generation (GWh)","Off-grid","2012",21.21
+"United Republic of Tanzania (the)","Total Non-Renewable","Electricity Generation (GWh)","Off-grid","2013",21.65
+"United Republic of Tanzania (the)","Total Non-Renewable","Electricity Generation (GWh)","Off-grid","2014",21.65
+"United Republic of Tanzania (the)","Total Non-Renewable","Electricity Generation (GWh)","Off-grid","2015",21.65
+"United Republic of Tanzania (the)","Total Non-Renewable","Electricity Generation (GWh)","Off-grid","2016",21.65
+"United Republic of Tanzania (the)","Total Non-Renewable","Electricity Generation (GWh)","Off-grid","2017",21.65
+"United Republic of Tanzania (the)","Total Non-Renewable","Electricity Generation (GWh)","Off-grid","2018",21.90
+"United Republic of Tanzania (the)","Total Non-Renewable","Electricity Generation (GWh)","Off-grid","2019",21.90
+"United Republic of Tanzania (the)","Total Non-Renewable","Electricity Generation (GWh)","Off-grid","2020",21.90
+"United Republic of Tanzania (the)","Total Non-Renewable","Electricity Generation (GWh)","Off-grid","2021",21.91
+"United Republic of Tanzania (the)","Total Non-Renewable","Electricity Generation (GWh)","Off-grid","2022",21.91
+"United Republic of Tanzania (the)","Total Non-Renewable","Electricity Generation (GWh)","Off-grid","2023",-
