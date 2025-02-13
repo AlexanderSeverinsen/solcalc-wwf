@@ -1,0 +1,11 @@
+.Renviron
+.Rhistory
+/scripts/
+/rsconnect/
+/notready/
+/data/TZ_ZAM/2024Q1/2024Q1_final_sources.csv
+/data/TZ_ZAM/2024Q1/2024Q1_final_raw_polygons.gpkg
+/data/TZ_ZAM/2024Q1/2024Q1_final_analysis_polygons.csv
+/data/TZ_ZAM/2024Q1/TZ-SAM-Data Summary.pdf
+/dev/
+.Rproj.user

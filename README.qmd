@@ -1,0 +1,84 @@
+---
+title: "Solar calculator"
+format: gfm
+---
+
+# Introduction
+
+The project is part of a collaboration between Engineers without borders (EWB) and the World Wildlife Fund (WWF). The initial idea was to create an energy baseline for East-Africa.
+
+Stuff that might be useful
+
+- <https://globalenergymonitor.org/projects/africa-energy-tracker/>
+- <https://globalenergymonitor.org/projects/global-solar-power-tracker/download-data/>
+- <https://global-energy-transition.org/>
+
+- <https://www.esmap.org/Updated_Global_Electrification_Platform_GEP_3.0>
+- <https://www.activesustainability.com/?_adin=11734293023>
+- <https://www.energyaccessexplorer.org/tool/s/>
+
+## Datasources
+
+There are many initiatives to promote renewable energy, both globally and for East-Africa in particular. The *Global Solar Atlas* (<https://globalsolaratlas.info/map>) provide easy access to the power potential of photovoltaic power potential. The power potential maps for East-Africa was collected from the Global Solar Atlas, and is activated as a map layer in the **WWF Solar Potential** app.
+
+### Solar Asset Mapper 
+
+The Solar Asset Mapper (TZ-SAM) use earth observation data and machine learning to identify solar assets, while also estimating construction dates and production capacity (<https://solar.transitionzero.org/>). The TZ-SAM web application (<https://solar.transitionzero.org/explore?x=113.48374&y=39.97495&z=16&r=0&l=111>) allows the users to zoom in more than 60 000 solar installations across the globe. In the WWF app we have additionally added markers for production capacity and estimated dates for when the installations were made. 
+
+TZ-SAM is made available under a Creative Commons Attribution Non-Commercial 4.0 International License (CC-BY-NC-4.0). Attribution to TransitionZero is required. You must also clearly indicate if you have made any changes to the TZ-SAM dataset and what these are. Please refer to the suggested citation formats:
+
+Phillpott, M., O'Connor, J., Ferreira, A., Max, S., Kruitwagen, L., & Guzzardi, M. (2024). Solar Asset Mapper: A continuously-updated global inventory of solar energy facilities built with satellite data and machine learning (1.0) [Data set]. Zenodo. <https://doi.org/10.5281/zenodo.11368204>
+
+
+“TransitionZero Solar Asset Mapper, TransitionZero, May 2024 release.”
+“TZ-SAM, TransitionZero, May 2024 release.”
+“TransitionZero (2024) Solar Asset Mapper.”
+
+With this app you can do three different things
+
+1) Calculate the PV solar potential for your roof
+2) Get an overview of solar panels installations at Norwegian roofs
+3) Get an overview of solar production in Norway (grid exported electricity)
+
+## Solar potential for your roof
+
+1) Search for an address. Lon/lat is stored and used to find irradiation data from PVGIS
+2) When you locate the address you can draw an area for solar panels on a roof
+    - You can switch between Open Street Map and ESRI satellite to inspect roofs, and use OSM map as visual guidance
+3) After drawing area around you roof the area m2 is calculated, then 70% is dedicated PV panels
+4) The peak power is estimated based on number of estimated panels from 3)
+5) Looking up peak power and lon/lat in PVGIS --> solar potential
+
+
+### PVGIS - calculating the solar potential
+
+PVGIS provides information on solar radiation for any location in the world, except the North and South Poles. They have a API which you can read more about here: <https://joint-research-centre.ec.europa.eu/photovoltaic-geographical-information-system-pvgis/getting-started-pvgis/api-non-interactive-service_en>. API calls have a rate limit of 30 calls/second per IP address, hence 108 000 calls each hour. You can map the solar potential for many locations during a day! 
+
+## Solar panels in Norway (and some from Sweden)
+
+The data is fetched from OpenStreetMap (OSM) (<https://www.openstreetmap.org/>). It is a free open geographic database. The database in maintained by volunteers and open collaboration. I am using two different methods to collect data, `Overpass Turbo` queries and the `R`library `osmdata`. More details in `scripts/solar_installations_OSM.R`
+
+
+## Web framework and libraries
+
+The app is written in `R` `Shiny` which is a **magical tool** that enables anyone working with data to quickly develop a web application.
+
+## Datasources
+
+### PVGIS
+
+Important to note that we are using the PVGIS API
+
+### OSMBuildings
+
+The 3D layer is provided by OSMBuildings <https://osmbuildings.org/>. We have been in contact with Jan March <mail@osmbuildings.org>, and after providing details about the Solar analytics app OSMBuildings granted us free use of their data tiles. Thank you!
+
+
+
+
+
+
+
+
+
+

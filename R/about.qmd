@@ -1,0 +1,53 @@
+---
+title: "The solar potential guide"
+toc: true
+format: 
+  html:
+    self-contained: true
+    page-layout: full
+execute: 
+  warning: false
+---
+
+# Introduction
+
+The solar potential calculator will enable
+
+1. Estimation of the solar potential of a roof or area
+2. Calculate what the solar energy can be used for
+3. Calculate when solar energy is of most use
+
+## How to estimate the solar potential?
+
+1. Search for an address or zoom in on a desired area on the map.
+2. Select the "Draw a polygon" tool from the map menu.
+3. Draw the area for which you want to estimate solar production potential.
+4. The calculation is now automatically performed based on the marked area: annual estimated solar production and estimated annual savings.
+
+Note that the automated calculations make some assumptions (which you can easily change). It is assumed that 70% of the area you have marked is available for the installation of solar panels. A standard solar panel is 1.6 m². For example, if the roof is 100 m², 70 m² will be available for panels, and the number of panels that can fit will be 70 m² area / 1.6 m² per panel = 43. This is further used as the basis for the system's total *peak power/kWp* as estimated...
+
+### Assumptions made
+
+The initial assumptions assume that the panels are placed facing the sun, however you may change all the assumptions. In the menu on the left side of the screen, select "Change assumptions." For example, let's say the standard calculation based on roof area and the number of panels has estimated an installed capacity of 12 kWp, but you know you can cover more than 70% of the roof with panels. Then, simply adjust "Installed capacity" to your desired value. This also applies to the electricity price, the orientation of the panels, and the angle.
+
+### Methods for estimating the potential
+
+*Solar panel analysis* uses PVGIS (Photovoltaic Geographical Information System) as the data source for all calculations. PVGIS provides solar radiation and weather data for all locations in the world, except the North and South Poles. For more information: <https://joint-research-centre.ec.europa.eu/photovoltaic-geographical-information-system-pvgis_en>
+
+#### Shadows
+
+Behind ridges and mountains, the sun doesn’t always shine. In these cases, only the solar radiation from the sky and clouds reaches the solar panels. To account for this, PVGIS uses a global terrain model with a resolution of 90 meters. This means that the height is recorded every 90 meters. This data is used to calculate the height of the horizon around various geographic positions, accounting for shadows from hills and mountains. However, note that shadows from houses and trees are not considered by PVGIS.
+
+#### Things not accounted for
+
+Snow, dust, partial shading
+
+## Solar production in East-Africa
+
+If you want to monitor solar production in Norway, you can check the "Solar production in Norway" menu. Here, the production is presented in the 5 different price areas, NO1 - NO5. All these price areas have seen significant positive development since the statistics became available in September 2020. Note that production data is sourced from <https://elhub.no/>. It is the export to the grid that is registered. This means that the buildings' consumption of solar energy is not captured in the statistics.
+
+## Existing solar panel installations on roofs
+
+Unlike most other power plants, you don’t often see the actual installation of solar panels on roofs. They sit quietly on the roofs, producing energy year after year without drawing much attention.
+
+Activate *Norwegian roof surfaces with PV* under the *Solar panel roofs in Norway* menu for an overview of the solar panel systems registered in Open Street Map (OSM). Note that this is not a complete overview as the registration of systems is based on volunteers working to enhance the OSM map solution.
