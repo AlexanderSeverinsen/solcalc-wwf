@@ -9,3 +9,6 @@
 /data/TZ_ZAM/2024Q1/TZ-SAM-Data Summary.pdf
 /dev/
 .Rproj.user
+/renv/
+.DS_Store
+shiny-server.conf
