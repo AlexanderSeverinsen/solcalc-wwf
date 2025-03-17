@@ -270,19 +270,6 @@ server <- function(input, output, session) {
   }) %>% debounce(2000) 
   
   
-
-  
-  # Activate markers for PV on East-African roofs - data from OSM
-  # observe({
-  #   showSolarRoofs(input, solar_polygons, solar_polygons_centroids, "map")
-  # })
-  
-  # Activate markers for TZ-SAM solar parks
-  # observe({
-  #   showSolarParks(input, centroids_tz_sam, "map")
-  # })
-  # 
-  
   # Event listener for clicking a marker
   observeEvent(input$map_marker_click, {
     click <- input$map_marker_click
