@@ -13,11 +13,12 @@ RUN apt-get update && apt-get install -y \
     libgdal-dev \
     libgeos-dev \
     libproj-dev \
-    libglpk-dev \   # Required for igraph/highcharter
+    libglpk-dev \   
     libcurl4-openssl-dev \
     libssl-dev \
     libxml2-dev \
     && rm -rf /var/lib/apt/lists/*
+
 
 # Install needed locales
 RUN sed -i 's/^# *\(nb_NO.UTF-8\)/\1/' /etc/locale.gen \
