@@ -27,6 +27,7 @@ RUN sed -i 's/^# *\(nb_NO.UTF-8\)/\1/' /etc/locale.gen \
 
 # Create necessary directories
 RUN mkdir -p /home/shiny-app/data
+RUN mkdir -p /home/shiny-app/pictures
 RUN mkdir -p /home/shiny-app/R
 
 # Install R packages
@@ -38,6 +39,7 @@ RUN R -e "install.packages(c( \
 
 # Copy application files
 COPY app.R /home/shiny-app/app.R
+COPY pictures /home/shiny-app/pictures
 COPY data /home/shiny-app/data
 COPY fonts /home/shiny-app/fonts
 COPY www /home/shiny-app/www
