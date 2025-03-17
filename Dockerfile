@@ -38,7 +38,6 @@ RUN R -e "install.packages(c( \
 
 # Copy application files
 COPY app.R /home/shiny-app/app.R
-COPY .Renviron /home/shiny-app/.Renviron
 COPY data /home/shiny-app/data
 COPY fonts /home/shiny-app/fonts
 COPY www /home/shiny-app/www
