@@ -1,8 +1,6 @@
-# ---- WWF Renewable tool ----
 
-source("R/init.R")
 
-#source("R/Module_Elhub_solarprod.R")
+# Energy pricing module
 source("R/Module_Energy_Pricing.R")
 
 # Solar simulator
@@ -21,20 +19,13 @@ source("R/home/home_ui.R")
 # Data and goals
 source("R/dataandgoals/dataandgoals_ui.R")
 
-
-#addResourcePath("aboutPage", "R")
-
-
 # ----- UI ----
 
-
-# TAKE AWAY ANEO
 ui <- page_navbar(
   useShinyjs(),
   useBusyIndicators(),
   id = "main_nav",
 
-  #theme = Aneo_theme,
   lang = "en",
   title = "RENEWABLE ENERGY TOOL",
   tags$head(tags$link(rel="shortcut icon", href="favicon.ico")),

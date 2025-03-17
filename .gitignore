@@ -1,4 +1,5 @@
 .Renviron
+.Rprofile
 .Rhistory
 /scripts/
 /rsconnect/
@@ -12,3 +13,4 @@
 /renv/
 .DS_Store
 shiny-server.conf
+*.conf
