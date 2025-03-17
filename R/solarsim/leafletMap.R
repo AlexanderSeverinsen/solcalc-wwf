@@ -1,14 +1,11 @@
 #' Leaflet Map
 #'
-#' This function initializes a Leaflet map with layers from Google,
+#' This function initializes a Leaflet map with layers 
 #' OSM, ESRI, Power potential layers from SolarGIS.
 #'
 #' @importFrom leaflet addTiles addProviderTiles addWMSTiles addPolygons addLayersControl setView addLegends addDrawToolbar raster
 
 leafletMap <- function(africa_lat, africa_lon, initial_zoom_level) {
-  # TO-DO, would be nice of loading was done in the background, and not when pressing the tab
-  # probably should be done with promise/mirai or something like that
-  # For now I am using withProgress such that the user knows what is going on
   withProgress(
     message = 'Initiating map for solar potential calculation', 
     detail = 'This may take a few seconds...', value = 0, {
@@ -40,15 +37,7 @@ leafletMap <- function(africa_lat, africa_lon, initial_zoom_level) {
   raster_PVOUT_Kenya <- aggregate(raster_PVOUT_Kenya, fact = 8, fun = mean)
   pal_kenya <- colorNumeric(palette = custom_palette, domain = values(raster_PVOUT_Kenya), na.color = "transparent")
  
-  # consider implementation
-  # satelite map with places marked
-  # var Stadia_AlidadeSatellite = L.tileLayer('https://tiles.stadiamaps.com/tiles/alidade_satellite/{z}/{x}/{y}{r}.{ext}', {
-  #   minZoom: 0,
-  #   maxZoom: 20,
-  #   attribution: '&copy; CNES, Distribution Airbus DS, © Airbus DS, © PlanetObserver (Contains Copernicus Data) | &copy; <a href="https://www.stadiamaps.com/" target="_blank">Stadia Maps</a> &copy; <a href="https://openmaptiles.org/" target="_blank">OpenMapTiles</a> &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
-  #   ext: 'jpg'
-  # });
-  
+  centroids_tz_sam <- st_read("data/TZ_SAM/centroids.gpkg", layer = "centroids")
   
   leaflet() %>%
     addTiles(group = "OpenStreetMap") %>%
@@ -59,17 +48,6 @@ leafletMap <- function(africa_lat, africa_lon, initial_zoom_level) {
         tileOptions(maxZoom = 19)
       ),
       group = "Esri Satellite") %>% 
-    
-    # addTiles(
-    #   urlTemplate = 'https://tiles.stadiamaps.com/tiles/alidade_satellite/{z}/{x}/{y}{r}.{ext}',
-    #   options = tileOptions(
-    #     minZoom = 0,
-    #     maxZoom = 20,
-    #     ext = 'jpg',
-    #     attribution = 'CNES, Distribution Airbus DS, © Airbus DS, © PlanetObserver (Contains Copernicus Data) | &copy; <a href="https://www.stadiamaps.com/" target="_blank">Stadia Maps</a> &copy; <a href="https://openmaptiles.org/" target="_blank">OpenMapTiles</a> &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
-    #   ),
-    #   group = "Stadia Alidade Satellite"
-    # ) %>%
     
     addMarkers(
       data = centroids_tz_sam,
